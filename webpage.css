@@ -1,0 +1,113 @@
+*
+{
+	margin: 0 px;
+	padding-left: 0 px;
+}
+.container
+{
+	width: 1515px;
+	height: auto;
+	margin-top: -8px;
+	margin-left: -8px;
+}
+.header
+{
+	width: 100%;
+	height: 100px;
+	
+}
+.slider
+{
+	height: 660px;
+}
+.content
+{
+	height: 700px;
+}
+.footer
+{
+	height: 100px;
+	width: 1495px;
+	text-align: center;
+	color: white;
+	background-color: #474e5d;
+	margin-top: 10px;
+	padding: 10px;
+	margin-bottom: -2px;
+}
+#logo
+{
+	width: 215px;
+	height: 100px;
+	float: left;
+	margin: 0px;
+}
+#menubar
+{
+	width: 1300px;
+	height: 50px;
+	float: left;
+	font-size: 30px;
+	padding-top: 50px;
+	text-align: right;
+	background-color: black;
+	margin-top: -2px;
+}
+a
+{
+	color: white;
+	text-decoration: none;
+}
+#discount
+{
+	height: 600px ;
+	width: 100% ;
+	margin-top: -2px;
+}
+#description
+{
+	height: 50px ;
+	width: 100% ;
+}
+h3
+{
+	text-align: center;
+	margin-top: 0px;
+}
+h1
+{
+	text-align: center;
+}
+.box1
+{
+	width: 370px;
+	height: 200px;
+	border: 2px black solid;
+	margin-left: 100px;
+	float: left;
+	text-align: center;
+}
+.box2
+{
+	border: 2px black solid;
+}
+.box3
+{
+	border: 2px black solid;
+}
+.box4
+{
+	border: 2px black solid;
+	margin-top: 90px;
+	margin-left: 310px;
+}
+.box5
+{
+	border: 2px black solid;
+	margin-top: 90px;
+	margin-left: 90px;
+}
+h4
+{
+	text-align: center;
+}
