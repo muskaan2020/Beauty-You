@@ -82,28 +82,21 @@ h1
 {
 	width: 370px;
 	height: 200px;
-	border: 2px black solid;
 	margin-left: 100px;
 	float: left;
 	text-align: center;
 }
 .box2
-{
-	border: 2px black solid;
-}
+{}
 .box3
-{
-	border: 2px black solid;
-}
+{}
 .box4
 {
-	border: 2px black solid;
 	margin-top: 90px;
 	margin-left: 310px;
 }
 .box5
 {
-	border: 2px black solid;
 	margin-top: 90px;
 	margin-left: 90px;
 }
